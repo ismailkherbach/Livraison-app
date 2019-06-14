@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="LoginTheme" parent="Theme.AccountKit">
+        <item name="com_accountkit_status_bar_color">#939393</item>
+        <item name="com_accountkit_input_border_color">#B4554E</item>
+        <item name="com_accountkit_primary_text_color">@android:color/black</item>
+        <item name="com_accountkit_background_color">#ffffff</item>
+        <item name="com_accountkit_input_background_color">#ffffff</item>
+        <item name="com_accountkit_button_background_color">#B4554E</item>
+        <item name="com_accountkit_button_disabled_background_color">#BE7F7B</item>
+        <item name="com_accountkit_button_text_color">#ffffff</item>
+        <item name="com_accountkit_button_disabled_text_color">#ffffff</item>
+
+    </style>
+
+</resources>
